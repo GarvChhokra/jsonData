@@ -1,0 +1,239 @@
+{
+  "ccsData": [{
+  "name": "Lenovo ThinkPad X1 Carbon Gen 9",
+  "brand": "Lenovo",
+  "description": "14\" Laptop with Intel Core i7-1165G7 Processor, 16GB RAM, and 1TB SSD",
+  "category": "Laptop",
+  "sub-category": "Business Laptop",
+  "price": "$1,799.99",
+  "image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen9-hero.png?context=bWFzdGVyfHJvb3R8MTYzMDEwfGltYWdlL3BuZ3xoOTgvaDYwLzEwODMzNzg2NjM1NDYyLnBuZ3wyMDcwYmU2NjEwMGI3OGFjYmE1YmYzOTIzZmRmZGRlM2QzODQwMmMxNTk3MmRiMzkwMzkwOTg3MmRkZDAxYzJl"
+},
+{
+  "name": "Logitech MX Master 3 Wireless Mouse",
+  "brand": "Logitech",
+  "description": "Advanced ergonomic mouse with hyper-fast scrolling and 4000 DPI precision",
+  "category": "Laptop Accessory",
+  "sub-category": "Wireless Mouse",
+  "price": "$99.99",
+  "image": "https://www.logitech.com/content/dam/logitech/en/products/mice/mx-master-3-hero.png"
+},
+{
+  "name": "HP 902XL Black Ink Cartridge",
+  "brand": "HP",
+  "description": "High-yield ink cartridge compatible with HP OfficeJet Pro 6968 and other printers",
+  "category": "Printer Cartridge",
+  "sub-category": "Ink Cartridge",
+  "price": "$38.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71YYpRp7VwL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "Dell XPS 13",
+  "brand": "Dell",
+  "description": "13\" Laptop with Intel Core i5-1135G7 Processor, 8GB RAM, and 512GB SSD",
+  "category": "Laptop",
+  "sub-category": "Ultrabook",
+  "price": "$1,199.99",
+  "image": "https://i.dell.com/sites/csimages/Video_Imagery/all/xps-13-9310-laptop-banner-desktop.jpg"
+}
+,
+{
+  "name": "Anker PowerCore+ 26800mAh Portable Charger",
+  "brand": "Anker",
+  "description": "Ultra-high-capacity power bank with USB-C and dual USB-A ports",
+  "category": "Laptop Accessory",
+  "sub-category": "Portable Charger",
+  "price": "$129.99",
+  "image": "https://d2211byn0pk9fi.cloudfront.net/spree/products/183482/original/PowerCore-26800-PD.jpg?1576666094"
+}
+,
+{
+  "name": "Canon PG-245 Black Ink Cartridge",
+  "brand": "Canon",
+  "description": "Standard yield ink cartridge compatible with Canon PIXMA MX492 and other printers",
+  "category": "Printer Cartridge",
+  "sub-category": "Ink Cartridge",
+  "price": "$17.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71IS3-SZKjL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "Apple MacBook Pro 16-inch",
+  "brand": "Apple",
+  "description": "16\" Laptop with Apple M1 Max Chip with 10‑Core CPU and 16‑Core GPU, 32GB RAM, and 1TB SSD",
+  "category": "Laptop",
+  "sub-category": "Professional Laptop",
+  "price": "$2,999.00",
+  "image": "https://www.apple.com/v/mac/home/ab/images/overview/16_inch_macbook_pro__cyt6vah0txey_large.jpg"
+}
+,
+{
+  "name": "Logitech C920x Pro HD Webcam",
+  "brand": "Logitech",
+  "description": "Full HD 1080p webcam with autofocus and dual mics",
+  "category": "Laptop Accessory",
+  "sub-category": "Webcam",
+  "price": "$69.99",
+  "image": "https://www.logitech.com/content/dam/logitech/en/products/c920x-webcam/c920x-gallery-1.png"
+}
+,
+{
+  "name": "Brother TN660 High Yield Toner Cartridge",
+  "brand": "Brother",
+  "description": "High-yield toner cartridge compatible with Brother HL-L2380DW and other printers",
+  "category": "Printer Cartridge",
+  "sub-category": "Toner Cartridge",
+  "price": "$54.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71zGCB7xcuL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "HP Spectre x360",
+  "brand": "HP",
+  "description": "13.3\" 2-in-1 Laptop with Intel Core i7-1165G7 Processor, 16GB RAM, and 512GB SSD",
+  "category": "Laptop",
+  "sub-category": "Convertible Laptop",
+  "price": "$1,299.99",
+  "image": "https://store.hp.com/app/assets/images/product/9DL73UA%23ABA/center_facing.png?_=1583750206995"
+}
+,
+{
+  "name": "Satechi Aluminum Type-C Pro Hub",
+  "brand": "Satechi",
+  "description": "USB-C hub with Thunderbolt 3, USB-C, SD and MicroSD card readers, and 4K HDMI output",
+  "category": "Laptop Accessory",
+  "sub-category": "USB-C Hub",
+  "price": "$99.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71A6iJQen1L._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "Epson T220XL Black and Color Combo Pack",
+  "brand": "Epson",
+  "description": "High-capacity ink cartridge combo pack compatible with Epson Expression Home XP-420 and other printers",
+  "category": "Printer Cartridge",
+  "sub-category": "Ink Cartridge",
+  "price": "$64.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71B18P6rHmL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "Dell XPS 13",
+  "brand": "Dell",
+  "description": "13.4\" Laptop with 11th Gen Intel Core i7-1165G7 Processor, 16GB RAM, and 512GB SSD",
+  "category": "Laptop",
+  "sub-category": "Ultrabook",
+  "price": "$1,599.99",
+  "image": "https://i.dell.com/sites/csimages/Video_Imagery/all/xps-13-9310-campaign-676x456.jpg"
+}
+,
+{
+  "name": "Bose QuietComfort 35 II Wireless Headphones",
+  "brand": "Bose",
+  "description": "Wireless noise-cancelling headphones with Alexa voice control",
+  "category": "Laptop Accessory",
+  "sub-category": "Headphones",
+  "price": "$299.00",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/81%2BjNVOUsJL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "HP 950XL/951XL Black and Color High Yield Ink Cartridges",
+  "brand": "HP",
+  "description": "High-yield ink cartridge combo pack compatible with HP OfficeJet Pro 8610 and other printers",
+  "category": "Printer Cartridge",
+  "sub-category": "Ink Cartridge",
+  "price": "$123.89",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71-Jq3rX%2BfL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "Lenovo ThinkPad X1 Carbon",
+  "brand": "Lenovo",
+  "description": "14\" Laptop with 11th Gen Intel Core i7-1185G7 Processor, 16GB RAM, and 1TB SSD",
+  "category": "Laptop",
+  "sub-category": "Business Laptop",
+  "price": "$2,099.99",
+  "image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-9-hero.png?context=bWFzdGVyfHJvb3R8NTI5OTB8aW1hZ2UvcG5nfGgyZC9oZDIvMTAzNjgzNDM3NDY3NC5wbmd8OTBmMjliNjRiMTQ2NzE3MDg1NmVlZjFhNzc3ZjFhZGIxMTAzZWM5NzkyODM5MTBjZDQzZjdiZDM0YzIzMTk2ZQ"
+}
+,
+{
+  "name": "Logitech MX Master 3 Wireless Mouse",
+  "brand": "Logitech",
+  "description": "Advanced wireless mouse with ultrafast and precise scrolling and customizable buttons",
+  "category": "Laptop Accessory",
+  "sub-category": "Mouse",
+  "price": "$99.99",
+  "image": "https://www.logitech.com/content/dam/logitech/en/products/mice/mx-master-3-hero.png.imgw.1920.1920.png"
+}
+,
+{
+  "name": "Brother TN660 High Yield Toner Cartridge",
+  "brand": "Brother",
+  "description": "High-yield toner cartridge compatible with Brother DCP-L2540DW and other printers",
+  "category": "Printer Cartridge",
+  "sub-category": "Toner Cartridge",
+  "price": "$54.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71E0U6tdA9L._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "Apple MacBook Pro",
+  "brand": "Apple",
+  "description": "16\" Laptop with M1 Pro chip, 16-core Neural Engine, 16GB RAM, and 512GB SSD",
+  "category": "Laptop",
+  "sub-category": "MacBook",
+  "price": "$2,499.00",
+  "image": "https://www.apple.com/v/macbook-pro-16/d/images/overview/hero__h2plpmbe8c6y_large.jpg"
+}
+,
+{
+  "name": "Samsung T5 Portable SSD",
+  "brand": "Samsung",
+  "description": "500GB portable solid state drive with USB-C connectivity and transfer speeds up to 540 MB/s",
+  "category": "Laptop Accessory",
+  "sub-category": "External Storage",
+  "price": "$89.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/81%2BO2sUJ0BL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "ASUS ZenScreen MB16AC",
+  "brand": "ASUS",
+  "description": "15.6-inch Full HD portable USB-powered monitor with a hybrid-signal solution for compatibility with USB Type-C and Type-A sources",
+  "category": "Laptop Accessory",
+  "sub-category": "Monitor",
+  "price": "$249.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71wZmzCnLJL._AC_SL1500_.jpg"
+}
+,
+{
+  "name": "HP 910XL High Yield Ink Cartridge",
+  "brand": "HP",
+  "description": "High-yield ink cartridge compatible with HP OfficeJet 8010 and other printers",
+  "category": "Printer Cartridge",
+  "sub-category": "Ink Cartridge",
+  "price": "$29.99",
+  "image": "https://i5.walmartimages.com/asr/9d6eb3c6-5ef6-40e6-bb2e-5dd29d4082ed_1.7ac9ba30bb3001417c29f6bfb8817b17.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+}
+,
+{
+  "name": "Dell XPS 13",
+  "brand": "Dell",
+  "description": "13.3-inch Laptop with 11th Gen Intel Core i7 processor, 16GB RAM, and 512GB SSD",
+  "category": "Laptop",
+  "sub-category": "Ultrabook",
+  "price": "$1,399.99",
+  "image": "https://i.dell.com/is/image/DellContent//content/dam/global-asset-library/Products/Notebooks/XPS/13_9300_non-touch/xps-13-9300-nt-hero-504x350-ng.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=579&qlt=95,0&hei=406&wid=586"
+}
+,
+{
+  "name": "SanDisk Extreme PRO Portable SSD",
+  "brand": "SanDisk",
+  "description": "1TB portable solid state drive with USB-C and USB-A connectivity and transfer speeds up to 1050 MB/s",
+  "category": "Laptop Accessory",
+  "sub-category": "External Storage",
+  "price": "$199.99",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71%2B06MGOeVL._AC_SL1500_.jpg"
+}]
+}
