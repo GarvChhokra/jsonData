@@ -60,7 +60,7 @@
 {
   "name": "Apple MacBook Pro 16-inch",
   "brand": "Apple",
-  "description": "16\" Laptop with Apple M1 Max Chip with 10‑Core CPU and 16‑Core GPU, 32GB RAM, and 1TB SSD",
+  "description": "16 Laptop with Apple M1 Max Chip with 10‑Core CPU and 16‑Core GPU, 32GB RAM, and 1TB SSD",
   "category": "Laptop",
   "sub-category": "Professional Laptop",
   "price": "$2,999.00",
@@ -90,7 +90,7 @@
 {
   "name": "HP Spectre x360",
   "brand": "HP",
-  "description": "13.3\" 2-in-1 Laptop with Intel Core i7-1165G7 Processor, 16GB RAM, and 512GB SSD",
+  "description": "13.3 2-in-1 Laptop with Intel Core i7-1165G7 Processor, 16GB RAM, and 512GB SSD",
   "category": "Laptop",
   "sub-category": "Convertible Laptop",
   "price": "$1,299.99",
@@ -120,7 +120,7 @@
 {
   "name": "Dell XPS 13",
   "brand": "Dell",
-  "description": "13.4\" Laptop with 11th Gen Intel Core i7-1165G7 Processor, 16GB RAM, and 512GB SSD",
+  "description": "13.4 Laptop with 11th Gen Intel Core i7-1165G7 Processor, 16GB RAM, and 512GB SSD",
   "category": "Laptop",
   "sub-category": "Ultrabook",
   "price": "$1,599.99",
@@ -150,7 +150,7 @@
 {
   "name": "Lenovo ThinkPad X1 Carbon",
   "brand": "Lenovo",
-  "description": "14\" Laptop with 11th Gen Intel Core i7-1185G7 Processor, 16GB RAM, and 1TB SSD",
+  "description": "14 Laptop with 11th Gen Intel Core i7-1185G7 Processor, 16GB RAM, and 1TB SSD",
   "category": "Laptop",
   "sub-category": "Business Laptop",
   "price": "$2,099.99",
@@ -180,7 +180,7 @@
 {
   "name": "Apple MacBook Pro",
   "brand": "Apple",
-  "description": "16\" Laptop with M1 Pro chip, 16-core Neural Engine, 16GB RAM, and 512GB SSD",
+  "description": "16 Laptop with M1 Pro chip, 16-core Neural Engine, 16GB RAM, and 512GB SSD",
   "category": "Laptop",
   "sub-category": "MacBook",
   "price": "$2,499.00",
